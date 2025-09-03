@@ -11,8 +11,8 @@ The notebook was built in Jupyter, then exported as an HTML file for easy viewin
 - matplotlib, seaborn
 
 ## 📂 Files 
-- [Download HTML Report](No-Show-appointment-Dataset.html) and open it in your browser
-- [Dataset: no-show-appointments.csv](No-Show-appointment-Dataset.csv)
+- [Download the project file (HTML Report)](No-Show-appointment-Dataset.html) and open it in your browser
+- [Download the Dataset: no-show-appointments.csv](No-Show-appointment-Dataset.csv)
 
 
 ## 📊 Key Questions Explored
