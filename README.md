@@ -11,8 +11,8 @@ The notebook was built in Jupyter, then exported as an HTML file for easy viewin
 - matplotlib, seaborn
 
 ## 📂 Files
-- `No-Show appointment Dataset.html` → full analysis with code, outputs, and visualizations
-- `No-Show appointment Dataset.csv` → dataset used for this project
+- `No-Show-appointment-Dataset.html` → full analysis with code, outputs, and visualizations
+- `No-Show-appointment-Dataset.csv` → dataset used for this project
 
 
 ## 📊 Key Questions Explored
