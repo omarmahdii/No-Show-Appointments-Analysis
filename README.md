@@ -11,7 +11,7 @@ The notebook was built in Jupyter, then exported as an HTML file for easy viewin
 - matplotlib, seaborn
 
 ## 📂 Files 
-- [HTML Report: No-Show Appointments](No-Show-appointment-Dataset.html)
+- [View the HTML Report Online](https://omarmahdii.github.io/No-Show-Appointments-Analysis/)
 - [Dataset: no-show-appointments.csv](No-Show-appointments-Dataset.csv)
 
 
