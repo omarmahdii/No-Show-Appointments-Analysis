@@ -11,7 +11,7 @@ The notebook was built in Jupyter, then exported as an HTML file for easy viewin
 - matplotlib, seaborn
 
 ## 📂 Files 
-- [View the HTML Report Online](https://omarmahdii.github.io/No-Show-Appointments-Analysis/)
+- [Download HTML Report](No-Show-appointments-Dataset.html) and open it in your browser
 - [Dataset: no-show-appointments.csv](No-Show-appointments-Dataset.csv)
 
 
@@ -30,6 +30,7 @@ The notebook was built in Jupyter, then exported as an HTML file for easy viewin
 - Sending SMS reminders **does not guarantee attendance**.
 - Younger patients are **more likely to miss** their appointments compared to older patients.
 - Patients with certain health conditions (like alcoholism or hypertension) had different attendance patterns.
+
 
 ## 🚀 How to View
 1. Clone or download this repository.
