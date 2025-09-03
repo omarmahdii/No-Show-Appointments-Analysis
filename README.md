@@ -10,9 +10,9 @@ The notebook was built in Jupyter, then exported as an HTML file for easy viewin
 - pandas, numpy
 - matplotlib, seaborn
 
-## 📂 Files
-- `No-Show-appointment-Dataset.html` → full analysis with code, outputs, and visualizations
-- `No-Show-appointment-Dataset.csv` → dataset used for this project
+## 📂 Files 
+- [The Project HTML file] → (No-Show-appointment-Dataset.html)  
+- [The Dataset csv file] → (No-Show-appointment-Dataset.csv)
 
 
 ## 📊 Key Questions Explored
